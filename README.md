@@ -1,4 +1,4 @@
-# recent-works
+# recent-works - Works-in-progress
 
 ## 2023-paper-summaries
 
@@ -90,4 +90,6 @@
 
 - NeSy summary and example implementations
 
+
+Note: Please email me to request access to the respective repositories.
 

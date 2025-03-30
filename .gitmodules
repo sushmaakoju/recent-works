@@ -31,3 +31,6 @@
 [submodule "representations"]
 	path = representations
 	url = https://github.com/sushmaakoju/representations.git
+[submodule "agentic-llms"]
+	path = agentic-llms
+	url = https://github.com/sushmaakoju/agentic-llms.git
