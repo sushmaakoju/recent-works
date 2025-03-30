@@ -1,3 +1,30 @@
 [submodule "nlrl"]
 	path = nlrl
 	url = https://github.com/sushmaakoju/nlrl.git
+[submodule "2024-paper-summaries"]
+	path = 2024-paper-summaries
+	url = https://github.com/sushmaakoju/2024-paper-summaries.git
+[submodule "2025-paper-summaries"]
+	path = 2025-paper-summaries
+	url = https://github.com/sushmaakoju/2025-paper-summaries.git
+[submodule "reasoning"]
+	path = reasoning
+	url = https://github.com/sushmaakoju/reasoning.git
+[submodule "llms"]
+	path = llms
+	url = https://github.com/sushmaakoju/llms.git
+[submodule "audio"]
+	path = audio
+	url = https://github.com/sushmaakoju/audio.git
+[submodule "multimodal-ai"]
+	path = multimodal-ai
+	url = https://github.com/sushmaakoju/multimodal-ai.git
+[submodule "natural-language-understanding"]
+	path = natural-language-understanding
+	url = https://github.com/sushmaakoju/natural-language-understanding.git
+[submodule "neurosymbolic-methods"]
+	path = neurosymbolic-methods
+	url = https://github.com/sushmaakoju/neurosymbolic-methods.git
+[submodule "2023-paper-summaries"]
+	path = 2023-paper-summaries
+	url = https://github.com/sushmaakoju/2023-paper-summaries.git
