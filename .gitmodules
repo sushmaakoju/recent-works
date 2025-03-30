@@ -28,3 +28,6 @@
 [submodule "2023-paper-summaries"]
 	path = 2023-paper-summaries
 	url = https://github.com/sushmaakoju/2023-paper-summaries.git
+[submodule "representations"]
+	path = representations
+	url = https://github.com/sushmaakoju/representations.git
