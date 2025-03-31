@@ -1,5 +1,6 @@
 # recent-works - Works-in-progress
 
+
 ## 2023-paper-summaries
 
 
@@ -91,5 +92,14 @@
 - NeSy summary and example implementations
 
 
-Note: Please email me to request access to the respective repositories.
+Note: Please email me to request access to the respective private submodules/repositories.
 
+```
+@online{sakoju-github-works-study-list,
+	title        = {github sakoju/recent-works},
+	author       = {sushmaanandakoju},
+	year         = {2023-2025},
+	note         = {[Accessed in 2025]},
+	howpublished = {\url{https://github.com/sushmaakoju/recent-works}}
+}
+```
