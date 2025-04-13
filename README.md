@@ -1,5 +1,20 @@
 # recent-works - Works-in-progress
 
+## intro-to-ai homework assignments
+
+This course has custom inputs. Every week we work on new input data which is different from previous week.
+Every week we have a new algorithm to implement. There is a validator and tester that is used to evaluate the
+blackbox python implementations. I implemented additional directions and deeper research as I always do.
+I have openly shared my homework assignment contributions even though this course heavily designed towards robotics and robot planning etc.
+I did not find robotics interesting. However I did my best.
+I did some additional interesting stuff to make my assignments interesting such as use of traditional static code analysis 
+to detect how many bugs are created in 1 week duration assignments versus implementations requiring 2-3 weeks duration.
+I have surprising findings, will be disclosing upon request 
+**since this is outside of scope of assignments and was not part of submitted assignments.**
+However I would not be including validator, tester, inputs and expected outputs.
+I have minimized the details of homeworks to purely focus on implementation details 
+with some edge case inputs that I changed for integrity and privacy of original homework assignments.
+
 
 ## 2023-paper-summaries
 
