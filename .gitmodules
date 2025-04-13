@@ -34,3 +34,6 @@
 [submodule "agentic-llms"]
 	path = agentic-llms
 	url = https://github.com/sushmaakoju/agentic-llms.git
+[submodule "intro-to-ai-homework-assignments"]
+	path = intro-to-ai-homework-assignments
+	url = https://github.com/sushmaakoju/intro-to-ai-homework-assignments.git
